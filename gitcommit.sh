@@ -25,7 +25,7 @@ git lg
 
 #Switch to /site directory
 
-cd /_site
+cd _site
 
 
 #Do it all over again
